@@ -77,7 +77,7 @@ While working on this project, I practiced:
 -   `Moderate Level Queries.sql` -- Moderate-level SQL questions and
     solutions
 -   `Advance Level Queries.sql` -- Advanced SQL questions and solutions
--   `MusicDatabaseSchema (1).png` -- Database schema
+-   `MusicDatabaseSchema.png` -- Database schema
 -   `SQL Project instructions.pdf` -- Project instructions and business
     questions
 -   `album2 (1).csv` -- Supporting data
